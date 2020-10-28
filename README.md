@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://github.com/allsouza/allsouza.github.io/blob/main/images/github_header.gif)
 
 <!--
 **allsouza/allsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
